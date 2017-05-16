@@ -1,0 +1,23 @@
+{
+  "name": "200server",
+  "version": "1.0.0",
+  "description": "Dummy server to send back 200 status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armiiller/200server.git"
+  },
+  "author": "Austin Miller <austinrmiller1991@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armiiller/200server/issues"
+  },
+  "homepage": "https://github.com/armiiller/200server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
